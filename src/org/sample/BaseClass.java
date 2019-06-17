@@ -27,8 +27,9 @@ public class BaseClass {
     }
 	
 if (flag ==1)
-    	System.out.println("String is Palindrome");
+    	System.out.println("String entered by you is Palindrome");
 else
-	  System.out.println("string is not Palindrom");
+	  System.out.println("string entered by you is not Palindrom");
+      System.out.println("Thank you for working with us");
 }
 }
