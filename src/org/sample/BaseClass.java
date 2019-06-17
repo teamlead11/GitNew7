@@ -13,7 +13,7 @@ public static void main(String[] args) {
 		
 	}
 	if(s.equals(rev)) {
-		System.out.println("String Is Palindrome");
+		System.out.println("String Is  a Palindrome");
 	}
 	else {
 		System.out.println("String Is Not Palindrome");
