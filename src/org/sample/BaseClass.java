@@ -27,8 +27,14 @@ public class BaseClass {
     }
 	
 if (flag ==1)
-    	System.out.println("String is Palindrome");
+    	System.out.println("String entered by you is Palindrome");
 else
-	  System.out.println("string is not Palindrom");
+	  System.out.println("string entered by you is not Palindrom");
+      System.out.println("Thank you for working with us");
+      int a,b,c=10;
+      int d=15;
+      if (d==10) {
+    	  System.out.println("number is high");
+      }
 }
 }
