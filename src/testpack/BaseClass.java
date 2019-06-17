@@ -2,7 +2,7 @@ package testpack;
 
 public class BaseClass {
 	
-	public static void main(String[] args) {
+	public void PalindromeRama() {
 		String name = "Ramadevi";
 		String res = "";
 		for (int i = name.length() - 1; i >= 0; i--) {
@@ -11,10 +11,14 @@ public class BaseClass {
 		}
 		if (res.equals(name)) {
 			System.out.println("Palindrome string");
-		} else {
+		} 
+		else {
 			System.out.println("Not palindrome string");
-		}
-
-	}
-
+}
+	}	
+	public static void main(String[] args) {
+		BaseClass b=new BaseClass();
+		b.PalindromeRama();
+		
+}
 }
