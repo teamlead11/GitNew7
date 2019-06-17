@@ -17,8 +17,10 @@ public class BaseClass {
 		}
 	}
 	public static void main(String[] args) {
-		BaseClass bc=new BaseClass();
-		bc.stringPalindromeByMadhavi();
+		System.out.println("Project class Day3 Task");
+		System.out.println("Conflict class");
+		BaseClass b=new BaseClass();
+		b.stringPalindromeByMadhavi();
 		
 
 	}
