@@ -18,6 +18,7 @@ public class BaseClass {
 	}
 	public static void main(String[] args) {
 		System.out.println("Project class Day3 Task");
+		System.out.println("conflict");
 		BaseClass b=new BaseClass();
 		b.stringPalindromeByMadhavilatha();
 		
