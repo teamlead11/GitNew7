@@ -2,5 +2,9 @@
 /GitNew5/
 /org/
 /sampleGit/
+<<<<<<< HEAD
+/testpack/
+=======
 /test2/
+>>>>>>> 545845a716606e5330e81decb8be7ebc17ee15fe
 /Scroll.class
