@@ -17,7 +17,7 @@ public static void main(String[] args) {
 		System.out.println("String Is  a Palindrome");
 	}
 	else {
-		System.out.println("String Is Not Palindrome");
+		System.out.println("String Is Not a Palindrome");
 	}
 }
 }
