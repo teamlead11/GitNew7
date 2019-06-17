@@ -31,5 +31,10 @@ if (flag ==1)
 else
 	  System.out.println("string entered by you is not Palindrom");
       System.out.println("Thank you for working with us");
+      int a,b,c=10;
+      int d=15;
+      if (d==10) {
+    	  System.out.println("number is high");
+      }
 }
 }
