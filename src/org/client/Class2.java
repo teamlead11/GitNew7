@@ -7,6 +7,10 @@ public static void main(String[] args) {
 	System.out.println(s.length());
 	String[] s1=s.split(" ");
 System.out.println(s1.length);
+String d="praveena varma";
+System.out.println(s.length());
+String[] d1=s.split(" ");
+System.out.println(s1.length);
 
 
 
