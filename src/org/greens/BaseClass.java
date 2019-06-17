@@ -21,6 +21,12 @@ public class BaseClass {
 		BaseClass b=new BaseClass();
 		b.stringPalindromeByMadhavilatha();
 		System.out.println("done");
+		b.stringpalindromebypradee();
 		
 	}
+	 private void stringpalindromebypradee() {
+		System.out.println("added one method ");
+
+	}
+	
 }
