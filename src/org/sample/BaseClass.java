@@ -2,6 +2,8 @@ package org.sample;
 
 import java.util.Scanner;
 
+
+
 public class BaseClass {
 	
 	public static void main(String[] args) {
@@ -36,5 +38,15 @@ else
       if (d==10) {
     	  System.out.println("number is high");
       }
-}
+      
+      System.out.println("Base class is created");
+		BaseClass base = new BaseClass();
+		base.stringPalindromeByPradee();
+	}
+
+	private void stringPalindromeByPradee() {
+		System.out.println("string palindrome methods is created");
+
+	}
+
 }
