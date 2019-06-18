@@ -45,7 +45,7 @@ else
 	}
 
 	private void stringPalindromeByPradee() {
-		System.out.println("string palindrome methods is created");
+		System.out.println("string palindrome methods");
 
 	}
 
