@@ -1,6 +1,13 @@
 package testpack;
 
 public class TestCase1 {
+	
+	public void gitConflict(int a, int b)
+	{
+		int c=a+b;
+		
+		
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
