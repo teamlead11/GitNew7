@@ -20,6 +20,15 @@ public class BaseClass {
 		System.out.println("Project class Day3 Task");
 		BaseClass b=new BaseClass();
 		b.stringPalindromeByMadhavilatha();
+		System.out.println("done");
+		b.stringpalindromebypradee();
 		
 	}
+	 private void stringpalindromebypradee() {
+		System.out.println("added one method ");
+
+		System.out.println("change 12.18pm");
+	}
+
+	
 }
