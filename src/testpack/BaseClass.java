@@ -1,9 +1,10 @@
 package testpack;
 
+
 public class BaseClass {
 	
-	public void PalindromeRama() {
-		String name = "Ramadevi";
+	public void PalindromePraneetha() {
+		String name = "praneetha";
 		String res = "";
 		for (int i = name.length() - 1; i >= 0; i--) {
 			char ch = name.charAt(i);
@@ -18,7 +19,7 @@ public class BaseClass {
 	}	
 	public static void main(String[] args) {
 		BaseClass b=new BaseClass();
-		b.PalindromeRama();
+		b.PalindromePraneetha();
 		
 }
 }
